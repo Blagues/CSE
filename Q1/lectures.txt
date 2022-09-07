@@ -1,0 +1,2 @@
+week 1:
+CG1[X], RNL1[X], CO1[X], ML1[X], BDP1[X], CO2[], CG2[], RNL2[], ML2[], CG3[], CO_T[], BDP2[]

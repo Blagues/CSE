@@ -1,0 +1,47 @@
+week 1: - [X] SC before L1
+	- [] SC after L1
+	- [] SC after L2
+
+week 2: - [] SC before L3
+	- [] SC after L3
+	- [] SC after L4
+
+week 3: - [] SC before L5
+	- [] SC after L5
+	- [] SC after L6
+
+week 4: - [] SC before L7
+	- [] SC after L7
+	- [] SC after L8
+
+week 5: - [] SC before L9
+	- [] SC after L9
+	- [] SC after L10
+
+week 6: - [] SC before L11
+	- [] SC after L11
+	- [] SC after L12
+
+week 7: - [] SC before L13
+	- [] SC after L13
+	- [] SC after L14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
