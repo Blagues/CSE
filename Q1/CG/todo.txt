@@ -1,8 +1,9 @@
-week 1 	- [] setup env
-	- [] Linear algebra self test
+week 1 	- [X] setup env
+	- [X] Linear algebra self test
 	- [] Lin alg programming excercises
 
 week 2:
-	- [] Asignment 1: C++ intro / Lin alg (Due 15 sept = Thursday)
-
+	- [X] Asignment 1: C++ intro / Lin alg (Due 15 sept = Thursday)
+	- [] Read Chpter 3.2 + Chapter 6 -  6.1.5 + 6.2 - 6.2.2 + 6.3
+	- [] Practice exercises 
 

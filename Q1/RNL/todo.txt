@@ -3,10 +3,10 @@ week 1: - [X] SC before L1
 	- [X] SC after L2
 	- [X] TA check
 
-week 2: - [] SC before L3
-	- [] SC after L3
-	- [] SC after L4
-	- [] TA check
+week 2: - [X] SC before L3
+	- [X] SC after L3
+	- [X] SC after L4
+	- [X] TA check
 
 week 3: - [] SC before L5
 	- [] SC after L5

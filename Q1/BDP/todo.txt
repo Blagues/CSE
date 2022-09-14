@@ -1,4 +1,11 @@
 - every week 2 explainers on github (but some are the same ?)
 - 4 mandatory assignments for 40% (idk when)
 
-# TODO: fix this schedule when more info available
+week 2:
+	- [] Set up scala
+	- [] Read L2 & L3
+	- [] FP assignment (24/09)
+
+week 3:
+	- [] Read L4 & L5
+	- [] Unix assignment (08/10)
