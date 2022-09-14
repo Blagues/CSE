@@ -1,17 +1,17 @@
-week 1: - [] Read Lab manual
-	- [] Set up env
+week 1: - [X] Read Lab manual
+	- [X] Set up env
 	- [X] enroll
 	- [X] entry quiz
 
 week 2: - [] Read Hamacher: Appendix A except A.5.4, A.11, A.12
-	- [] Read Lab Manual t/m 3.10
+	- [X] Read Lab Manual t/m 3.10
 
-	- [] Lab assignment 1
+	- [X] Lab assignment 1
 	- [] Self study week 2
 
 week 3:
 	- [] Read Hamacher: Chapter 1 + 9, except 9.2, 9.5, 9.6
-	- [] Sign off assignment 1 (Book slot in time)
+	- [X] Sign off assignment 1 (Book slot in time)
 
 	- [] Peer review self study
 	- [] Self study week 3

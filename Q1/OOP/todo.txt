@@ -1,1 +1,3 @@
-- just make all weblab assignments asap
+week 1:	- [X] weblab
+week 2:	- [X] weblab
+week 3:	- [] weblab
